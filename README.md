@@ -1,27 +1,6 @@
-# Formação de linguagem C da Alura
-## Curso 1 - C: conhecendo a Linguagem das Linguagens
-### Conteúdo abordado
-- Aprenda a criar o primeiro programa em C
-- Descubra o que são variáveis
-- Faça seu programa variar o comportamento
-- Realize operações matemáticas
-- Aprenda a usar condicionais e laços
-- Entenda o funcionamento de um compilador
-- Crie um jogo de adivinhação completo
-Link: https://cursos.alura.com.br/course/introducao-a-programacao-com-c-parte-1
-## Curso 2 - C: avançando na linguagem
-### Conteúdo abordado
-- Crie funções e manipule arrays
-- Entenda ponteiros e endereços de memória
-- Manipule entrada e saída, e escreva em arquivos
-- Conheça boas práticas de programação
-- Crie um jogo de forca completo
-Link: https://cursos.alura.com.br/course/introducao-a-programacao-com-c-parte-2
-## Curso 3 - C: recursos avançados da linguagem
-### Conteúdo abordado
-- Escreva funções recursivas e manipule matrizes
-- Defina tipos e estruturas
-- Entenda diretivas de compilação
-- Divida o código em múltiplos arquivos
-- Crie um jogo de Pac Man completo
-
+# Cursos sobre a linguagem C
+![C language](https://i.ytimg.com/vi/VGC-XEj76xI/maxresdefault.jpg "C language")
+Código criado durante a Formação de C da Alura que pode ser encontrada acessando o link: [Formação linguagem C da Alura](https://cursos.alura.com.br/formacao-linguagem-c "Formação linguagem C da Alura")
+Durante o primeiro curso, fui desafiado a criar um jogo de advinhação de número secreto, onde utilizei estruturas básicas da linguagem C como estruturas de decisão, estruturas de repetiçãoe e funções básicas da bliblioteca stdio.h e onde aprendi o conceito de variáveis e constanstes juntamente com seus tipos ,etc.
+No segundo curso, o qual estou fazendo neste momento, estou sendo desafiado a criar um jogo da forca. Nesse curso é empregada a utlizaçao de vetores e funções.
+E no terceiro curso, vou criar um jogo do Pac-Man utilizando matrizes.
